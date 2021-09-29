@@ -1,2 +1,2 @@
 # hello-world
-First code on Github. I'm going on whit the first code.
+First code on Github. I'm going on with the first code.
